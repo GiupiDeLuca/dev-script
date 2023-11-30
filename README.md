@@ -1,0 +1,3 @@
+- Add a .env from the .env.template and add your github personal access token (PAT)
+- Modify the start date in the `index.js` file, e.g. `const startDate = "2023-11-01T00:00:00Z";`
+- Run the script with `node index.js`
